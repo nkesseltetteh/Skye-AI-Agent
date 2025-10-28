@@ -1,4 +1,4 @@
-# 🌤 SkyAIAgent
+# 🌤 Skye-AI-Agent
 
 *SkyAIAgent* is an intelligent AI-powered assistant designed to *search the internet for information* when asked a question.  
 It acts like your personal research partner — fetching, summarizing, and presenting relevant and reliable results in real time.
