@@ -118,4 +118,3 @@ Email: ekowessel77@gmail.com
 
 ---
 
-Would you like me to tailor this README for a *Python-based CLI version* or a *web app (React/Flask)* version of SkyAIAgent? I can adjust it for your actual implementation.
