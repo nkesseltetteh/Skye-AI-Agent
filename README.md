@@ -17,8 +17,8 @@ It acts like your personal research partner — fetching, summarizing, and prese
 
 ## 🧩 Tech Stack
 
-- *Language Model:* OpenAI GPT (or compatible API)  
-- *Web Search API:* (e.g., SerpAPI, Bing Web Search, or custom web-scraping backend)  
+- *Language Model: LIVEKIT_API 
+- *Web Search API:LIVEKIT_API
 - *Backend:* Python / Node.js (depending on your implementation)  
 - *Frontend (optional):* React / Streamlit / CLI interface  
 
