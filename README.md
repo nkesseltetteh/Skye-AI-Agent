@@ -17,10 +17,10 @@ It acts like your personal research partner — fetching, summarizing, and prese
 
 ## 🧩 Tech Stack
 
-- *Language Model: LIVEKIT_API 
-- *Web Search API:LIVEKIT_API
-- *Backend:* Python / Node.js (depending on your implementation)  
-- *Frontend (optional):* React / Streamlit / CLI interface  
+- *Language Model:* LIVEKIT_API 
+- *Web Search API:* LIVEKIT_API
+- *Backend:* Python 
+- *Frontend :* CLI interface  
 
 ---
 
