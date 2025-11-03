@@ -28,7 +28,7 @@ It acts like your personal research partner — fetching, summarizing, and prese
 
 1. *Clone the repository:*
    ```bash
-   git clone https://github.com/<your-username>/SkyAIAgent.git
+   git clone https://github.com/<nkesseltetteh>/SkyAIAgent.git
    cd SkyAIAgent
 
 	2.	Install dependencies:
